@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1581108336 source:d:\importante\tareas\computación\semestre 3\estructuras\actividad 2\date.cpp
+	"date.h"
+
+1581107714 d:\importante\tareas\computación\semestre 3\estructuras\actividad 2\date.h
+	<string>
+	<string.h>
+
+1581123458 source:d:\importante\tareas\computación\semestre 3\estructuras\actividad 2\main.cpp
+	<iostream>
+	<locale.h>
+	<string>
+	"date.h"
+	"inventory.h"
+
+1581121984 source:d:\importante\tareas\computación\semestre 3\estructuras\actividad 2\inventory.cpp
+	"inventory.h"
+	<iostream>
+
+1581121497 d:\importante\tareas\computación\semestre 3\estructuras\actividad 2\inventory.h
+	<iostream>
+	"date.h"
+
+1581129945 source:c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 2\date.cpp
+	"date.h"
+
+1581135935 c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 2\date.h
+	<string>
+	<string.h>
+
+1581135935 source:c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 2\inventory.cpp
+	"inventory.h"
+	<iostream>
+
+1581129945 c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 2\inventory.h
+	<iostream>
+	"date.h"
+
+1581136171 source:c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 2\main.cpp
+	<iostream>
+	<locale.h>
+	<string>
+	"date.h"
+	"inventory.h"
+
