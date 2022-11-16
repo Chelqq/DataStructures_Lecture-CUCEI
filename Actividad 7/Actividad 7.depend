@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584675529 source:c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 7\main.cpp
+	<iostream>
+	<windows.h>
+	<random>
+	<chrono>
+	<functional>
+	"list.h"
+
+1584675624 c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 7\list.h
+	<iostream>
+	<string>
+	<exception>
+	<fstream>
+
+1584463902 c:\users\mbleo\onedrive\documentos\estructura de datos 1\tareas\actividad 7\time.h
+
